@@ -1,4 +1,6 @@
 STAT-100-Project
 ================
 
-SEmester Project for STAT-100 
+STAT-100 2014-2015 Fall:  Final Project Essay
+
+
